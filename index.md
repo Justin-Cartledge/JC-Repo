@@ -1,4 +1,4 @@
-![Branching](github-header-image (3).png)
+![Branching](github-header-image (4).png)
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
