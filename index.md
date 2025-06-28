@@ -1,4 +1,4 @@
-![Justin](Justin Black2.jpeg)
+![Justin](Justin Black.jpeg)
 
 ![Banner](github-header-image (4).png)
 
