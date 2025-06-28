@@ -1,4 +1,4 @@
-<img src="Justin Black.jpeg" width="300" height: auto alt="Justin Headshot">
+![Justin](Justin Black2.jpeg)
 
 ![Banner](github-header-image (4).png)
 
