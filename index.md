@@ -1,4 +1,5 @@
-![Branching](github-header-image (4).png)
+![Selfie](Justin Black.jpeg)
+![Banner](github-header-image (4).png)
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
