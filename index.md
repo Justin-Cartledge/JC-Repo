@@ -1,4 +1,5 @@
-![Selfie](Justin Black.jpeg)
+<img src="Justin Black.jpeg" width="300" height: auto alt="Justin Headshot">
+
 ![Banner](github-header-image (4).png)
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
