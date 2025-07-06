@@ -12,7 +12,18 @@
 |--------------------------------|--------------------------------|
 | ![Alt text](Justin Black.jpeg)        | ![Alt text]        |
 
-![Alt text](Azure Account Creation Resize.jpeg) <br>
+<br>
+Created an Azure Subscription, and logged in at: https://portal.azure.com
+![Account Creation](Azure Account Creation Resize.jpeg)
+
+<br>
+Created Resource Group "explain what a Resource Group is"
+![Alt text](Azure Resource group creation_2.jpg)
+
+<br>
+Created Virtual Network
+
+<br>
 ![Alt text](Justin Black.jpeg)
 
 
