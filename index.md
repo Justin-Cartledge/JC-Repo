@@ -8,6 +8,16 @@
 
 <br>
 
+| Image 1                         | Image 2                         |
+|--------------------------------|--------------------------------|
+| ![Alt text](Azure Virtual Machine Creation_1.png)        | ![Alt text](Azure Virtual Machine Creation_2.png)        |
+
+| Image 3                         | Image 4                         |
+|--------------------------------|--------------------------------|
+| ![Alt text](Azure Virtual Machine Creation_3.png)        | ![Alt text](Azure Virtual Machine Creation_4.png)        |
+
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
