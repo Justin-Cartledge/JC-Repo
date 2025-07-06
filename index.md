@@ -10,7 +10,7 @@
 
 | Image 1                         | Image 2                         |
 |--------------------------------|--------------------------------|
-| ![Alt text](Azure Virtual Machine Creation_1.png)        | ![Alt text](Azure Virtual Machine Creation_2.png)        |
+| ![Alt text](Justin Black.jpeg)        | ![Alt text](Azure Virtual Machine Creation_2.png)        |
 
 | Image 3                         | Image 4                         |
 |--------------------------------|--------------------------------|
