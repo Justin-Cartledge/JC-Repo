@@ -12,7 +12,7 @@
 |--------------------------------|--------------------------------|
 | ![Alt text](Justin Black.jpeg)        | ![Alt text]        |
 
-![screenshot](
+![screenshot](Azure Account Creation Resize.jpeg)
 
 
 
