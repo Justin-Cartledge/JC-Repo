@@ -2,6 +2,12 @@
 
 ![Banner](github-header-image (4).png)
 
+# Home Security Operation Center (SOC) - Honey Pot Project<br> Monitoring Live Attacks
+
+<ins>Part 1. Setup Azure Subscription</ins>
+
+<br>
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
