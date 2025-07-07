@@ -13,11 +13,13 @@
 | ![Alt text]()        |         |
 
 <br>
-Created an Azure Subscription, and logged in at: https://portal.azure.com
+Created an Azure Subscription, and logged in at: (https://portal.azure.com)
+<br>
 ![Account Creation](Azure Account Creation Resize.jpeg)
 
 <br>
 Created Resource Group "explain what a Resource Group is"
+<br>
 ![Alt text](Azure Resource group creation_2.jpg)
 
 <br>
