@@ -63,7 +63,7 @@ Configured the "Windows Security Events via AMA" connector. This is a data inges
 
 <br>![AMA Picture](Azure Sentinel SIEM Log Forwarding_1.png)<br>
 
-<br>![Log Picture](Azure Log Analystics Workspace Log Repository Query_1)<br>
+<br>![Log Picture](Azure Log Analystics Workspace Log Repository Query_1.jpg)<br>
 
 <br><ins>**Part 5. Log Enrichment and Finding Location Data**</ins><br>
 
@@ -81,7 +81,7 @@ Created the Data Collection Rule (DCR) within Sentinel, and created a Watchlist.
 
 <br>As a project overview, this is a visual representation of what was created.<br>
 
-<br>![Attack Map](Azure Project Overview_1)<br>
+<br>![Attack Map](Azure Project Overview_1.png)<br>
 
 
 
