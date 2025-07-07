@@ -27,15 +27,17 @@ Created an Azure Subscription, and logged in at: [Microsoft Azure](https://porta
 
 <br><ins>Part 2. Create the Honey Pot (Azure Virtual Machine)</ins><br>
 
-In order to create the Honey Pot, the only allow RDP rule in the Network Security Group was deleted, and a rule was created in the Network Security Group for the virtual machine (VM) that allows all traffic inbound.<br>
+In order to create the Honey Pot, the Security Group rule, which only allows Inbound RDP traffic, was deleted, and a rule was created in the Network Security Group for the virtual machine (VM) that allows ALL traffic inbound.<br>
 
 <br>![Network Sec Group Picture 1](Azure Network Security Group_1.jpg)<br>
 
 <br>![Network Sec Group Picture 2](Azure Network Security Group_2.jpg)<br>
 
-Using the newley created VM's Public IP address, RDP into the VM<br>
+Using the newly created VM's Public IP address, and Remote Desktop Protocol (RDP), the VM was logged into in order to turn off the Windows firewal<br>
 
 <br>![Delete Firewalln Picture]()
+
+
 
 <br><br>Text can be **bold**, _italic_, or ~~strikethrough~~.
 
