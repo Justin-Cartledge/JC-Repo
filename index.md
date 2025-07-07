@@ -4,13 +4,9 @@
 
 # Home Security Operation Center (SOC) - Honey Pot Project - Monitoring Live Attacks
 
-<ins>Part 1. Setup Azure Subscription and Virtual Machine (VM)</ins>
+<br><ins>Part 1. Setup Azure Subscription and Virtual Machine (VM)</ins>
 
 <br>
-
-| Image 1                         | Image 2                         |
-|--------------------------------|--------------------------------|
-| ![Alt text]()        |         |
 
 <br>
 Created an Azure Subscription, and logged in at: [Microsoft Azure](https://portal.azure.com/#home)
@@ -27,10 +23,18 @@ Created an Azure Subscription, and logged in at: [Microsoft Azure](https://porta
 
 <br>Created the Azure Virtual Machine (VM). A VM is a cloud-based computer you can create and run on Microsoft Azure—without needing to buy or maintain physical hardware.
 
-<br>![VM Picture 1](Azure Virtual Machine Deployed_1.jpg)
+<br>![VM Picture 1](Azure Virtual Machine Deployed_1.jpg)<br>
+
 <br>![VM Picture 2](Azure Virtual Machine Deployed_2.jpg)
 
-<br><ins>Part 2. Create the Honey Pot (Azure Virtual Machine)</ins>
+<br><ins>Part 2. Create the Honey Pot (Azure Virtual Machine)</ins><br>
+
+In order to create the Honey Pot, the only allow RDP rule in the Network Security Group was deleted, and a rule was created in the Network Security Group for the virtual machine (VM) that allows all traffic inbound.<br>
+
+<br>![Network Sec Group Picture 1](Azure Network Security Group_1.jpg)<br>
+
+<br>![Network Sec Group Picture 2](Azure Network Security Group_2.jpg)<br>
+
 
 
 <br><br>Text can be **bold**, _italic_, or ~~strikethrough~~.
