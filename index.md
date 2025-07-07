@@ -7,8 +7,6 @@
 <br><ins>Part 1. Setup Azure Subscription and Virtual Machine (VM)</ins>
 
 <br>
-
-<br>
 Created an Azure Subscription, and logged in at: [Microsoft Azure](https://portal.azure.com/#home)
 
 <br>![Account Creation Picture](Azure Account Creation Resize.jpeg)
@@ -35,7 +33,9 @@ In order to create the Honey Pot, the only allow RDP rule in the Network Securit
 
 <br>![Network Sec Group Picture 2](Azure Network Security Group_2.jpg)<br>
 
+Using the newley created VM's Public IP address, RDP into the VM<br>
 
+<br>![Delete Firewalln Picture]()
 
 <br><br>Text can be **bold**, _italic_, or ~~strikethrough~~.
 
