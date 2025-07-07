@@ -79,7 +79,7 @@ Created the Data Collection Rule (DCR) within Sentinel, and created a Watchlist.
 
 <br>![Attack Map](Azure Attack Map_1.jpg)<br>
 
-<br>As a project overview, this is a visual representation of what was created.<br>
+<br>As a project overview, a honeypot environment was established within Microsoft Azure by provisioning a virtual machine (VM) intentionally exposed to the public internet. Steps involve: Honeypot Configuration, Log Collection and Forwarding, SIEM Integration, and Attack Source Visualization. Below is a visual representation of what was created.<br>
 
 <br>![Attack Map](Azure Project Overview_1.png)<br>
 
