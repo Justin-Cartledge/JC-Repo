@@ -4,7 +4,7 @@
 
 # Home Security Operation Center (SOC) - Honey Pot Project - Monitoring Live Attacks
 
-<br><ins>Part 1. Setup Azure Subscription and Virtual Machine (VM)</ins>
+<br><ins>**Part 1. Setup Azure Subscription and Virtual Machine** (VM)</ins>
 
 <br>
 Created an Azure Subscription, and logged in at: [Microsoft Azure](https://portal.azure.com/#home)
@@ -25,7 +25,7 @@ Created an Azure Subscription, and logged in at: [Microsoft Azure](https://porta
 
 <br>![VM Picture 2](Azure Virtual Machine Deployed_2.jpg)
 
-<br><ins>Part 2. Create the Honey Pot (Azure Virtual Machine)</ins><br>
+<br><ins>**Part 2. Create the Honey Pot - Azure Virtual Machine**</ins><br>
 
 In order to create the Honey Pot, the Security Group rule, which only allows Inbound RDP traffic, was deleted, and a rule was created in the Network Security Group for the virtual machine (VM) that allows ALL traffic inbound.<br>
 
@@ -35,7 +35,18 @@ In order to create the Honey Pot, the Security Group rule, which only allows Inb
 
 Using the newly created VM's Public IP address, and Remote Desktop Protocol (RDP), the VM was logged into in order to turn off the Windows firewal<br>
 
-<br>![Delete Firewalln Picture]()
+<br>![Delete Firewall Picture 1](Azure Logging into VM to disable internal Firewall_2.png)
+
+<br>![Delete Firewall Picture 2](Azure Logging into VM to disable internal Firewall_3.png)
+
+<br>![Delete Firewall Picture 3](Azure Logging into VM to disable internal Firewall_4.png)
+
+
+<br><ins>**Part 3. Logging into the VM and inspecting logs**</ins><br>
+
+Within the VM, reviewed the Event Viewer and inspected the Security Logs to confirm that there are incoming log traffic such as event ID: 4625 for failed logins.<br>
+
+<br>![Event Viewer]()
 
 
 
