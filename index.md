@@ -13,24 +13,20 @@
 | ![Alt text]()        |         |
 
 <br>
-Created an Azure Subscription, and logged in at: [Azure](https://portal.azure.com/#home)
+Created an Azure Subscription, and logged in at: [Microsoft Azure](https://portal.azure.com/#home)
 
-<br>![Account Creation](Azure Account Creation Resize.jpeg)
+<br>![Account Creation Picture](Azure Account Creation Resize.jpeg)
 
-<br>
-Created Resource Group "explain what a Resource Group is"
-<br>
-![Alt text](Azure Resource group creation_2.jpg)
+<br>Created Resource Group. A Resource Group is like a container that holds related resources for your cloud solution—think of it as a folder for organizing everything you deploy in Azure.
 
-<br>
-Created Virtual Network
+<br>![Resource Group Picture](Azure Resource group creation_2.jpg)
 
-<br>
-![Alt text]()
+<br>Created Virtual Network (VNET). A VNET is the backbone of networking in Microsoft Azure—it’s your private cloud network where you can securely run and connect resources like virtual machines, databases, and web apps.
+
+<br>![VNET Picture]()
 
 
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+<br><br>Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
